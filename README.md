@@ -150,7 +150,7 @@ Originally developed as a graduation project, SmartTrack is now being enhanced t
 إمكانية التواصل الفردي مع كل متدرب  
 **Private chat between supervisor and trainee**
 
-![Supervisor Chat](screenshots/admin_chat_screen.png)
+![Supervisor Chat](screenshots/admin_messages_tab.png)
 
 ---
 
