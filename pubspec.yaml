@@ -1,0 +1,68 @@
+name: smarttrack
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # ✅ تحديث Firebase إلى أحدث إصدار متوافق
+  firebase_core: ^2.25.0
+  firebase_auth: ^4.15.4
+  cloud_firestore: ^4.13.5
+  firebase_storage: ^11.7.7
+  firebase_messaging: ^14.7.5 # ✅ أُضيفت
+  flutter_local_notifications: ^17.1.2
+  local_auth: ^2.1.6
+  latlong2: ^0.9.0
+  flutter_map: ^6.1.0
+  flutter_map_cancellable_tile_provider: ^2.0.0
+  pdf: ^3.10.4
+  printing: ^5.13.1
+  permission_handler: ^11.3.1
+  path_provider: ^2.1.2
+  share_plus: ^7.2.1
+  image_picker: ^1.0.4
+  geolocator: ^10.1.0
+  geocoding: ^2.1.0
+  http: ^1.4.0
+  google_maps_flutter: ^2.5.0
+  google_fonts: ^6.1.0
+  flutter_spinkit: ^5.2.0
+  
+
+  # ✅ مكتبات إضافية
+  intl: ^0.19.0
+  file_picker: ^8.0.0
+  cupertino_icons: ^1.0.8
+  fl_chart: ^0.70.2
+  shared_preferences: ^2.2.2
+  provider: ^6.1.2
+
+  # ✅ دعم اللغة العربية
+  flutter_localizations:
+    sdk: flutter
+  url_launcher: ^6.3.1
+  url_launcher_web: ^2.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/Smartt.png
+
+  fonts:
+    - family: NotoNaskhArabicf
+      fonts:
+        - asset: assets/fonts/NotoNaskhArabic-Regular.ttf
+        - asset: assets/fonts/NotoNaskhArabic-Medium.ttf
