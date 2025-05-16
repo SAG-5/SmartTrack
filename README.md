@@ -138,40 +138,32 @@ Originally developed as a graduation project, SmartTrack is now being enhanced t
 
 ---
 
-### 👨‍💼 لوحة تحكم المشرف | Supervisor Dashboard  
-يعرض بيانات جميع المتدربين المرتبطين بالمشرف  
-**Supervisor’s dashboard to monitor all trainees**
+### 🧑‍💼 المتدربين التابعين للمشرف | Trainees under Supervisor  
+قائمة جميع المتدربين المرتبطين بالمشرف  
+**All trainees assigned to the supervisor**
 
-![Admin Dashboard](screenshots/admin_dashboard_screen.png)
-
----
-
-### 💬 محادثة المشرف مع المتدرب | Supervisor Chat  
-إمكانية التواصل الفردي مع كل متدرب  
-**Private chat between supervisor and trainee**
-
-![Supervisor Chat](screenshots/admin_messages_tab.png)
+![Manage Trainees](screenshots/admin_manage_trainees_screen.png)
 
 ---
 
-### 📈 إحصائيات المتدربين | Trainee Statistics  
-يعرض عدد الحضور، المهام، والتقييمات  
-**Trainee statistics and performance metrics**
+### 💬 تبويب محادثات المشرف | Supervisor Messages Tab  
+عرض محادثات المشرف الفردية  
+**Tab showing all one-on-one supervisor messages**
 
-![Statistics](screenshots/statistics_screen.png)
-
----
-
-### 📑 تقارير المشرف | Supervisor Reports  
-واجهة تصدير تقارير الحضور أو المهام  
-**Supervisor report export for attendance and tasks**
-
-![Reports](screenshots/admin_reports_screen.png)
+![Messages Tab](screenshots/admin_messages_tab.png)
 
 ---
 
-### ⚠️ تأكيد الحضور من الجهة | Attendance Approval  
-المشرف يؤكد وجود المتدرب فعليًا داخل الجهة  
-**Supervisor approves trainee presence on-site**
+### 🏢 جهات تدريب المتدربين | Training Organizations  
+إدارة وربط المتدربين بجهاتهم التدريبية  
+**Training organization assignment and overview**
 
-![Attendance Approval](screenshots/attendance_approval_screen.png)
+![Training Orgs](screenshots/admin_training_orgs_screen.png)
+
+---
+
+### 🕘 سجل حضور المشرف | Supervisor Attendance Log  
+سجل الحضور العام للمتدربين  
+**Global attendance log monitored by the supervisor**
+
+![Admin Attendance](screenshots/attendance_admin_screen.png)
